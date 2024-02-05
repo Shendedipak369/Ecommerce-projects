@@ -1,2 +1,2 @@
 # Ecommerce-projects
-Ecommerce projects using JS and REACT
+Ecommerce projects using HTML , CSS, JS and REACT & Tailwind Css.
